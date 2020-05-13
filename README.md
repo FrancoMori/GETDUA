@@ -12,3 +12,6 @@ Revisión 1.0
 - En caso no exista paginación guarda un archivo con todos los registros en la ruta C:\temp\DUA\TPage.html
 
 Para ejecutar la clase, usar escenario de pruebas [Explorador de pruebas]
+
+> Chromedriver
+- Instalar https://chromedriver.chromium.org/downloads
